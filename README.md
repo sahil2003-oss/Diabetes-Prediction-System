@@ -1,1 +1,1 @@
-### it is a Diabetes Prediction System 
+### it is a Diabetes Prediction System , aiming to predict that whether the patient is having diabetes or not. This use case tries to solve the binary classification problem statement
